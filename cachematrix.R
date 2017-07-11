@@ -7,7 +7,7 @@
 ## the calculation of the inverse of a matrix
 
 ## Author: https://github.com/pedrobaigorri
-## Date: 22/10/2015
+## Date: 11/07/2017
 ##
 #########################################################################################
 

@@ -6,7 +6,7 @@
 ## created in the file cachematrix.R
 
 ## Author: https://github.com/pedrobaigorri
-## Date: 23/10/2015
+## Date: 11/07/2017
 ##
 #########################################################################################
 
